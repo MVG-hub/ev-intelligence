@@ -1,0 +1,20 @@
+# EV Intelligence Platform — Python dependencies
+# Install: pip install -r requirements.txt
+
+# ── core data ──────────────────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.25.0
+openpyxl>=3.1.0          # xlsx reading
+
+# ── ML ─────────────────────────────────────────────────────────────────────────
+scikit-learn>=1.4.0
+
+# ── visualisation ──────────────────────────────────────────────────────────────
+plotly>=5.20.0
+streamlit>=1.35.0
+
+# ── RAG / vector store ─────────────────────────────────────────────────────────
+chromadb>=0.5.0
+
+# ── utilities ──────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0

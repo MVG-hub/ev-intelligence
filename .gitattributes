@@ -1,0 +1,28 @@
+﻿# Normalise line endings — LF in repo, CRLF on Windows checkout
+* text=auto eol=lf
+
+# Python
+*.py    text eol=lf
+*.toml  text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.json  text eol=lf
+*.env   text eol=lf
+
+# Windows batch
+*.bat   text eol=crlf
+
+# Binary — never modify
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.db    binary
+*.sqlite binary
+*.bin   binary
+*.pkl   binary
+*.h5    binary
+*.onnx  binary

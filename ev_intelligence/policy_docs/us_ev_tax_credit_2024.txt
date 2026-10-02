@@ -1,0 +1,11 @@
+US Federal EV Tax Credit (IRA 2024 Update)
+-------------------------------------------
+The Inflation Reduction Act provides a $7,500 federal tax credit for new
+battery electric vehicles (BEVs) meeting North American assembly requirements
+and critical mineral sourcing thresholds.  PHEVs with battery capacity >= 7 kWh
+qualify for up to $3,750.  Income caps apply: $150,000 (single) / $300,000
+(joint).  Used EV credit: up to $4,000 for vehicles <= $25,000.
+Critical mineral requirement: 40 % of battery minerals must be sourced from
+free-trade-agreement partners or domestic US mines.  This rises to 80 % by 2027.
+Import duty on Chinese-manufactured EVs: 100 % tariff effective 2024.
+Import duty on batteries from non-FTA countries: 25 % tariff.

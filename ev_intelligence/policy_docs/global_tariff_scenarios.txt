@@ -1,0 +1,21 @@
+Global EV Tariff Scenario Summary
+----------------------------------
+Scenario A – Status Quo (2024):
+  US tariff on Chinese EVs: 100 %.  EU provisional tariff: 17-38 %.
+  Lithium import duty (US): 0 %.  Cobalt import duty (US): 0 %.
+
+Scenario B – Trade War Escalation:
+  US extends 25 % tariff to all non-USMCA EV components.
+  EU raises definitive tariff on Chinese EVs to 45 %.
+  India raises CBU import duty to 125 %.
+  Impact: +12-18 % manufacturing cost increase for non-domestic producers.
+
+Scenario C – Green Trade Corridor:
+  US-EU-Japan bilateral critical mineral agreement: 0 % duty on EV minerals.
+  Mutual recognition of EV safety standards reduces homologation costs ~3 %.
+  Impact: -8 % total vehicle cost for transatlantic manufacturers.
+
+Scenario D – Carbon Border Tax Full Implementation (2026):
+  EU CBAM covers EV batteries and motors.
+  Carbon price assumed: EUR 65/tonne CO2.
+  Estimated surcharge on imports from high-coal-power grids: EUR 1,200–2,800/vehicle.
