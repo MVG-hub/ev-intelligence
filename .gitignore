@@ -34,12 +34,6 @@ secrets.toml
 ev_intelligence/chroma_store/
 chroma_store/
 
-# ── Kaggle datasets (large — distribute via Kaggle API) ──────
-*.csv
-*.xlsx
-*.xls
-*.parquet
-*.feather
 
 # ── OS files ─────────────────────────────────────────────────
 .DS_Store
