@@ -1,0 +1,20 @@
+# EV Intelligence Platform - Streamlit Cloud requirements
+# This file MUST be at the repo root for Streamlit Cloud to find it.
+
+# Core data
+pandas>=2.0.0
+numpy>=1.25.0
+openpyxl>=3.1.0
+
+# Machine Learning
+scikit-learn>=1.4.0
+
+# Visualisation
+plotly>=5.20.0
+streamlit>=1.35.0
+
+# RAG / Vector store
+chromadb>=0.5.0
+
+# Utilities
+python-dotenv>=1.0.0

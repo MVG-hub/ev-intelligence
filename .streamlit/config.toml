@@ -1,10 +1,8 @@
-﻿[browser]
+[browser]
 gatherUsageStats = false
 
 [server]
 headless = true
-port = 8501
-enableCORS = false
 
 [theme]
 base = "dark"
