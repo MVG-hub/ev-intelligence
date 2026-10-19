@@ -119,7 +119,7 @@ with tab1:
 with tab2:
     sample_df = ev_f.sample(min(40000, len(ev_f)), random_state=42)
     # Use go.Densitymapbox directly — px.density_mapbox was removed in newer Plotly
-    fig2 = go.Figure(go.Densitymapbox(
+    fig2 = go.Figure(go.Densitymap(
         lat=sample_df["latitude"],
         lon=sample_df["longitude"],
         radius=10,
