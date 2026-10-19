@@ -127,7 +127,7 @@ with tab2:
         showscale=True,
     ))
     fig2.update_layout(
-        mapbox=dict(style="open-street-map", zoom=3,
+        map=dict(style="open-street-map", zoom=3,
                     center=dict(lat=47.5, lon=-122.0)),
         paper_bgcolor="#0d1117", font_color="#e6edf3",
         height=560, margin=dict(t=0, b=0, l=0, r=0),
